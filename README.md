@@ -13,6 +13,12 @@ The project covers:
 
 ---
 
+## 🧱 Architecture Diagram
+
+![Architecture Diagram](docs/Data_Diagram.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **SQL**: Core database analysis and querying  
